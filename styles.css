@@ -1,0 +1,42 @@
+h1{
+	color: orange;
+	text-align: center;
+}
+h3{
+	color: orange;
+	text-align: center;
+}
+body{
+	background: black;
+}
+p{
+	color: white; 
+	text-align: center;
+}
+ul{
+list-style: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+position: relative;
+top: 0;
+background: orange;
+}
+li {
+	float: left;
+}
+li a{
+	color: black;
+}
+li a:hover{
+	color: black;
+	background: white;
+}
+img {
+	display: block;
+	margin: auto;
+}
+video {
+	display: block;
+	margin: auto;
+}
